@@ -1,0 +1,16 @@
+{
+  "name": "projectbe",
+  "version": "1.0.0",
+  "description": "practise node",
+  "repository": {
+    "type": "git",
+    "url": "javascript, backend, node-js"
+  },
+  "license": "ISC",
+  "author": "Pranav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
